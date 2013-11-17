@@ -1,0 +1,19 @@
+h1 {
+	text-align:center;
+}
+
+#canvasBg {
+	display:block; 
+	background:#FF4444; 
+	border:1px solid #000000; 
+	margin:25px auto 0px;
+}
+
+#canvasTurtle {
+	display: block;
+	margin:-451px auto 0px;
+}
+
+.info {
+	text-align:center;
+}
